@@ -1,0 +1,48 @@
+Q: How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+A: Using this tool, I was able to quickly find the differences between two files. 
+This process would normally have taken a while, depending on how large the
+files were. For example, this would save a ridiculous amount of time for very
+large files.
+
+--------------------------------------------------------------------------------
+Q: How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+A: Having previous versions of a file readily available gives you flexibility
+to change things and not worry about losing information. You can always go back
+to a previous version. 
+
+--------------------------------------------------------------------------------
+Q: What do you think are the pros and cons of manually choosing when to create a 
+commit, like you do in Git, vs having versions automatically saved, like Google 
+Docs does?
+
+A: Manually saving makes each version easier to understand when it comes to revision.
+Afterall, you created a commit at that point for a reason. However, the downside to 
+manually creating commits is that people can sometimes forget to save, aka human error.
+
+--------------------------------------------------------------------------------
+Q: Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+A: Git is meant for programmers using code files. Google Docs is more geared for the
+the common file user, which doesn't necessarily require comparison of versions 
+side-by-side.
+
+--------------------------------------------------------------------------------
+Q: How can you use the commands git log and git diff to view the history of files?
+
+A: git log shows the history of all the commits that were made. git diff allows you
+to compare any two commits to see the changes that were made between them.
+
+
+--------------------------------------------------------------------------------
+Q: How might using version control make you more confident to make changes that
+could break something?
+
+A: 
+
+
+--------------------------------------------------------------------------------
